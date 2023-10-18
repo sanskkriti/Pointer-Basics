@@ -209,15 +209,20 @@ The reason we associate data type with a pointer is that it knows how many bytes
 ## **OUTPUT**
 
 1.
-   
+
+
+
    ![Screenshot 2023-10-18 at 9 05 33 PM](https://github.com/sanskkriti/Pointer-Basics/assets/140137289/6fd8093f-87f9-4a8c-ac5f-69a8ef67d135)
 
 
 2.
 
+
  
   ![Screenshot 2023-10-18 at 9 05 43 PM](https://github.com/sanskkriti/Pointer-Basics/assets/140137289/a5c8da94-8e23-408d-9f48-2a12bc99e7f2)
 
 3.
+
+
 
   ![Screenshot 2023-10-18 at 9 05 53 PM](https://github.com/sanskkriti/Pointer-Basics/assets/140137289/66c32234-b9d8-4c98-87df-84678a177d9d)
